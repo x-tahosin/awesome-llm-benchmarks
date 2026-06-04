@@ -206,6 +206,7 @@ LLMs as agents: planning, tool calling, multi-step execution.
 - [PIXIU](https://github.com/The-FinAI/PIXIU) — Financial LLM eval suite.
 
 ### Scientific
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Scientific reasoning benchmark for evidence-grounded critique, falsification, overclaim detection, and calibration on recent paper summaries.
 - [SciQ](https://allenai.org/data/sciq) — Science QA.
 - [ScienceQA](https://github.com/lupantech/ScienceQA) — Multimodal science QA.
 - [LAB-Bench](https://github.com/Future-House/LAB-Bench) — Biology research agent benchmark.
