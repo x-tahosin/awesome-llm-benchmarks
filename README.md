@@ -164,6 +164,7 @@ LLMs as agents: planning, tool calling, multi-step execution.
 - [InFoBench](https://github.com/qinyiwei/InfoBench) — Decomposed instruction following.
 
 ## Hallucination & Truthfulness
+- **[REFUTE](https://bgpt.pro/refute)** — Scientific critique & epistemic calibration (judge-free). Tests whether models overclaim on recent science summaries; critique skill ≠ calibration. [Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) · [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)
 
 - [TruthfulQA](https://github.com/sylinrl/TruthfulQA) — Questions designed to elicit false answers.
 - [HalluLens](https://github.com/facebookresearch/HalluLens) — Llama team's hallucination benchmark (2025).
