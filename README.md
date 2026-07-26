@@ -132,6 +132,7 @@ Specifically test ability to use long-context windows.
 LLMs as agents: planning, tool calling, multi-step execution.
 
 - [AgentBench](https://github.com/THUDM/AgentBench) — Multi-domain agent evaluation (8 environments).
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) — 283 real-world online tasks in two suites, with Docker-isolated runs and five-layer interaction traces for reproducible web-agent evaluation.
 - [GAIA](https://huggingface.co/spaces/gaia-benchmark/leaderboard) — General AI Assistants benchmark (HuggingFace).
 - [GAIA-2](https://github.com/meta-agent-2/gaia-2) — Successor with refreshed unseen tasks.
 - [τ-bench / tau-bench](https://github.com/sierra-research/tau-bench) — Tool-agent-user interaction benchmark (Sierra).
