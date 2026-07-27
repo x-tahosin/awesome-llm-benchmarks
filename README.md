@@ -112,6 +112,7 @@ Vision + language + (audio/video) capability.
 - [MVBench](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2/MVBench) — 20 video tasks.
 - [TempCompass](https://github.com/llyx97/TempCompass) — Temporal reasoning in videos.
 - [AV-Odyssey](https://av-odyssey.github.io) — Audio-visual benchmark.
+- [StructEval](https://github.com/TIGER-AI-Lab/StructEval) — Structured-output generation and cross-format conversion benchmark with syntax, structural-fidelity, and visual-fidelity checks across 18 text and renderable formats (TMLR 2025).
 
 ## Long Context
 
