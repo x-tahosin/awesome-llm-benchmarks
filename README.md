@@ -273,6 +273,8 @@ Required reading if you design or interpret evaluations.
 - [*Are Emergent Abilities of Large Language Models a Mirage?*](https://arxiv.org/abs/2304.15004) (Schaeffer et al., 2023).
 - [*Can LLMs Really Reason?* — Apple GSM-Symbolic paper](https://arxiv.org/abs/2410.05229) (Mirzadeh et al., 2024).
 - [*GPQA: A Graduate-Level Google-Proof Q&A Benchmark*](https://arxiv.org/abs/2311.12022) (Rein et al., 2023).
+- [Benchmark Radar](https://github.com/ktwu01/benchmark-radar) — Living benchmark catalog and search engine; the [paper](https://arxiv.org/abs/2609.11115) audits source records, saturation, adoption trends, and limits of score comparisons (Wu et al., 2026).
+
 
 ## How to Choose a Benchmark
 
