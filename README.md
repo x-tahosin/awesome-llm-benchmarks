@@ -48,6 +48,7 @@ Broad multi-task benchmarks testing reasoning, knowledge, and language understan
 - [Humanity's Last Exam (HLE)](https://lastexam.ai) — Multi-disciplinary expert-level questions; intentionally uncontaminated.
 - [MUSR](https://github.com/zayne-sprague/MuSR) — Multistep soft reasoning over narratives.
 - [MMLU-CF](https://github.com/microsoft/MMLU-CF) — Contamination-free MMLU variant.
+- [Decision Bench](https://github.com/atlanai/decision-bench) — Bounded decisions such as routing, tool selection, and classification; reports accuracy, calibration, latency, and cost on a frozen public-source corpus with per-row predictions. Public-source data may overlap training data.
 
 ## Code Generation
 
