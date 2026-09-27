@@ -248,7 +248,7 @@ Continuously updated rankings.
 - [BFCL Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) — Berkeley function-calling leaderboard.
 - [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) — General AI Assistant performance.
 - [Open Medical LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard) — Medical-domain rankings.
-- [AI Charts](https://aicharts.io) — Published AI benchmark scores plotted against cost and tokens per task, plus a local collector that measures your own agents' token use.
+- [AI Charts](https://aicharts.io) — Published benchmark scores charted against cost and tokens per task, marking the best score at each budget.
 
 ## Contamination Detection
 
