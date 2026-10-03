@@ -235,6 +235,7 @@ Tools for running benchmarks, tracking results, and building custom evals.
 ## Live Leaderboards
 
 Continuously updated rankings.
+- [ModelBenchmark](https://modelbenchmark.io) — Composite ranking of 202 models from 16 public benchmarks, with prices and context windows for 2,406 models.
 
 - [LMSys Chatbot Arena](https://chat.lmsys.org) / [Lmarena.ai](https://lmarena.ai) — Blind human-preference ranking; the gold standard for chat models.
 - [Open LLM Leaderboard v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) — HuggingFace (IFEval, BBH, MATH, GPQA, MuSR, MMLU-Pro).
