@@ -273,6 +273,7 @@ Required reading if you design or interpret evaluations.
 - [*Are Emergent Abilities of Large Language Models a Mirage?*](https://arxiv.org/abs/2304.15004) (Schaeffer et al., 2023).
 - [*Can LLMs Really Reason?* — Apple GSM-Symbolic paper](https://arxiv.org/abs/2410.05229) (Mirzadeh et al., 2024).
 - [*GPQA: A Graduate-Level Google-Proof Q&A Benchmark*](https://arxiv.org/abs/2311.12022) (Rein et al., 2023).
+- [*Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation*](https://arxiv.org/abs/2510.04265) (Hariri et al., ICLR 2026) - Performance estimates and sampling uncertainty for repeated-trial model comparisons.
 
 ## How to Choose a Benchmark
 
