@@ -248,7 +248,7 @@ Continuously updated rankings.
 - [BFCL Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) — Berkeley function-calling leaderboard.
 - [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) — General AI Assistant performance.
 - [Open Medical LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard) — Medical-domain rankings.
-- [Wordsmith Model Bench](https://wordsmith.page/benchmark/models) — Manuscript editing (craft notes, line edits, polish) on private held-out pages, scored by an LLM judge panel from different model makers.
+- [Hypercritica Model Bench](https://hypercritica.com/benchmark/models) — Manuscript editing (craft notes, line edits, polish) on private held-out pages, scored by an LLM judge panel from different model makers.
 
 ## Contamination Detection
 
