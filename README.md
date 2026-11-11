@@ -151,6 +151,8 @@ LLMs as agents: planning, tool calling, multi-step execution.
 - [AgentBoard](https://github.com/hkust-nlp/AgentBoard) — Analytical agent evaluation.
 - [TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) — Realistic multi-constraint travel planning.
 
+- [EC2-Bench](https://github.com/OpenBMB/EC2-Bench) — 128 digital-workspace tasks for long-horizon edge-cloud agent collaboration, jointly measuring task performance, cloud cost, and privacy exposure.
+
 ## Instruction Following & Chat
 
 - [MT-Bench](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) — LMSys multi-turn chat benchmark (GPT-4 judge).
