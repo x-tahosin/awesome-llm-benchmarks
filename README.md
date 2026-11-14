@@ -240,6 +240,7 @@ Continuously updated rankings.
 - [Open LLM Leaderboard v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) — HuggingFace (IFEval, BBH, MATH, GPQA, MuSR, MMLU-Pro).
 - [LiveBench.ai](https://livebench.ai) — Monthly-refreshed questions to avoid contamination.
 - [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) — Production-oriented comparison.
+- [AIHOT Model Leaderboard](https://aihot.news/leaderboard) — Chinese-language rankings aggregate public benchmark results across reasoning, coding, and other tasks, with links to the scoring methodology.
 - [Aider Polyglot](https://aider.chat/docs/leaderboards) — Code-editing benchmark leaderboard.
 - [SEAL Leaderboards](https://scale.com/leaderboard) — Scale's private evals (contamination-resistant).
 - [SWE-bench Leaderboard](https://www.swebench.com) — Official SWE-bench / Verified / Multimodal rankings.
