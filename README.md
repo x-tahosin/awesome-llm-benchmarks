@@ -203,6 +203,7 @@ LLMs as agents: planning, tool calling, multi-step execution.
 ### Finance
 - [FinBench](https://github.com/yzlnew/FinBench) — Financial reasoning.
 - [FinQA](https://github.com/czyssrs/FinQA) — Numerical reasoning over financial reports.
+- [fraud-eval](https://github.com/RishabhPande/fraud-eval) - Benchmark for evaluating LLM-based fraud and abuse detectors, with attack packs paired with benign twins and cost per correct decision.
 - [PIXIU](https://github.com/The-FinAI/PIXIU) — Financial LLM eval suite.
 
 ### Scientific
